@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+
+# Output of TypeScript build
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
